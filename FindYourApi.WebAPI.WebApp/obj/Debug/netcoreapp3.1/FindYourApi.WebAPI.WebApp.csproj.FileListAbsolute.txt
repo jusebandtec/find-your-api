@@ -6,7 +6,6 @@ C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.Web
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\bin\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.runtimeconfig.dev.json
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\bin\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.dll
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\bin\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.pdb
-C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.csprojAssemblyReference.cache
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.AssemblyInfoInputs.cache
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.AssemblyInfo.cs
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.Web
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.dll
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.pdb
 C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.genruntimeconfig.cache
+C:\Users\MARINJO\Documents\FindYourApi\FindYourApi.WebAPI.WebApp\FindYourApi.WebAPI.WebApp\obj\Debug\netcoreapp3.1\FindYourApi.WebAPI.WebApp.csprojAssemblyReference.cache
